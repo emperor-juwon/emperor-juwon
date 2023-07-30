@@ -4,15 +4,12 @@
 
 ---
 
-###### Hello!  I am Juwon Hwang. I am currently learning programming to make people lives comfy.
+###### Hello!  I am Juwon Hwang.
 ---
-###### 🌱 Preparing to become a Backend Developer
+###### 🌱 Working as a Backend Developer at NS HomeShopping since 2022
 ###### 📝 Writing a blog for sharing many useful code
-###### 📚 Completed the IT training course at 'Green Computer Art Academy' (2021.12~2022.06)
-###### 🎓 Graduated from Busan National University (but programming is outside of my field)  
 #
 
-######  🖥 [Portfolio](https://won5354.wixsite.com/fwangjuwon)
 ######  👩🏻‍💻 [Learning Blog](https://blog.naver.com/fwangjuwon)
 ######  🗃 [Github for Studying](https://github.com/fwangjuwon)
 
